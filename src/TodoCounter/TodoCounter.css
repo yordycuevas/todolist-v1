@@ -1,0 +1,15 @@
+.TodoCounter {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+  }
+
+.TodoCounter{
+  color: rgb(42, 202, 238)
+}
+
+.emoji {
+  color: rgb(255, 255, 255);
+  
+}
